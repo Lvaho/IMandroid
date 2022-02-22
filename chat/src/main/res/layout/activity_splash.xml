@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/template"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    >
+<!--    <TextView-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginBottom="53dp"-->
+<!--        android:text="之讯"-->
+<!--        android:layout_marginTop="100dp"-->
+<!--        android:textColor="@color/black"-->
+<!--        android:textSize="35sp" />-->
+
+    <Space
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+<!--    <TextView-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginBottom="53dp"-->
+<!--        android:text="@string/slogan"-->
+<!--        android:textColor="@color/gray11"-->
+<!--        android:textSize="18sp" />-->
+
+</LinearLayout>
